@@ -8,7 +8,7 @@
  
 - 💬 Ask me about **Full Stack Development**
 
-- 🌱 I’m currently exploring **Natural Language Processing**
+- 🌱 My research interests include **Natural Language Processing** and **Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
