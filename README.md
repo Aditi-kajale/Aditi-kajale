@@ -2,9 +2,9 @@
 <h1 align="center">Hey, I'm Aditi Kajale</h1>
 <h3 align="center">A quick and passionate problem solver</h3>
 
-- 👨‍💻 I’m an incoming **Member of Technical Staff at De Shaw India**
+- 👨‍💻 I’m a **Member of Technical Staff at De Shaw India**
 
-- 📝 Pursuing **Bachelors in Technology in Computer Engineering**
+- 📝 **Bachelors in Technology in Computer Engineering**
  
 - 💬 Ask me about **Full Stack Development**
 
