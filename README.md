@@ -1,6 +1,5 @@
 
 <h1 align="center">Hey, I'm Aditi Kajale</h1>
-<h3 align="center">A quick and passionate problem solver</h3>
 
 - 👨‍💻 I’m a **Member of Technical Staff at De Shaw India**
 
@@ -8,7 +7,7 @@
  
 - 💬 Ask me about **Full Stack Development**
 
-- 🌱 My research interests include **Natural Language Processing** and **Deep Learning**
+- 🌱 My research interests are in the domains of **Natural Language Processing** and **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
