@@ -1,9 +1,11 @@
 
 <h1 align="center">Hey, I'm Aditi Kajale</h1>
 
-- 👨‍💻 I’m a **Member of Technical Staff at De Shaw India**
+- 👨‍💻 I’m a **CS Graduate student at the University of Massachusetts Amherst**
 
-- 📝 **Bachelors in Technology in Computer Engineering**
+-  I’m worked as a **Software Engineer** at **The D.E. Shaw Group**
+
+- **Bachelors in Technology in Computer Engineering**
  
 - 💬 Ask me about **Full Stack Development**
 
