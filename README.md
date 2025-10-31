@@ -7,9 +7,9 @@
 
 - **Bachelors in Technology in Computer Engineering**
  
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Software Engineering, Full Stack Development, AI and ML**
 
-- 🌱 My research interests are in the domains of **Natural Language Processing** and **Machine Learning**
+- 🌱 My research interests lie in the domains of **Natural Language Processing** and **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
